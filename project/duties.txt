@@ -1,0 +1,40 @@
+Wu Chi King (wuchi8 | ck.wu@mail.utoronto.ca)
+- Mainly worked on WarehousePicking, Simulator, OrderManager and made slight modification to Order/PickingRequest so that they work with OrderManager.
+- Worked on documentation
+--- P2 ---
+- Refactoring for Simulator.java, WarehousePicking.java
+- JUnit4 Tests for SimulatorTest.java, WarehousePickingTest.java
+
+
+
+
+Evan Wallace (walla125 | evan.wallace@mail.utoronto.ca)
+- designed queueing system
+- implemented most of Order, OrderManager, PickingRequest, RequestManager, WorkerManager
+- helped with documentation and debugging
+--- P2 ---
+- refactored Simulator to use regex; split the multi-nested main method into something testable
+- wrote tests for Order, OrderManager, PickingRequest, RequestManager, WorkerManager, Simulator
+- implemented logging
+- debugging and documentation
+
+
+
+
+Dean Ninalga (ninalgad | justin.ninalga@mail.utoronto.ca)
+- Focused on WarehousePicking and IventoryManger 
+- Implement methods reading initial.csv and traversal_table.csv and writing to final.csv
+- Helped with debugging 
+--- P2 ---
+- Improved and refactored InventoryManger
+- JUnit4 Tests for InventoryManger.java
+- debugging and documentation
+
+
+
+
+
+Zian Qin (zian.qin@mail.utoronto.ca)
+- Mainly worked on the InventoryManager, the abstract "Worker" class, and each of the worker subclasses, 
+- BarcodeReader and WarehousePicking (BarcodeReader was rejected by vote)
+- Helped worked on classes such as Simulator (Implement the worker related sections)

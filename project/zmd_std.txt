@@ -1,0 +1,117 @@
+Replenisher CoolDude ready
+Replenisher CoolDude replenishes
+Replenisher CoolDude ready
+Replenisher CoolDude replenishes
+Replenisher CoolDude ready
+Replenisher CoolDude replenishes
+
+
+Order S Blue
+Order SES Blue
+Order SES Blue
+Order SES Red
+Picker Alice ready
+
+Order S Blue
+Order SES Blue
+Order SES Red
+Order SES Red
+Picker p1 ready
+
+Picker Alice picks 21
+Picker Alice picks 22
+Picker Alice picks 33
+Picker Alice picks 34
+Picker Alice picks 37
+Picker Alice picks 37
+Picker Alice picks 38
+Picker Alice picks 38
+
+Picker p1 ready
+Picker p1 picks 21
+Picker p1 picks 21
+Picker p1 picks 22
+Picker p1 picks 22
+Picker p1 picks 33
+Picker p1 picks 34
+Picker p1 picks 37
+Picker p1 picks 38
+
+Picker Alice to Marshaling
+Picker p1 to Marshaling
+
+Replenisher CoolDude ready
+Replenisher CoolDude replenishes
+
+Sequencer Sue ready
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue rejects
+
+Sequencer Sue ready
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue rescans
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue approves
+
+Loader Bill ready
+
+Picker Alice ready
+
+Picker Alice picks 21
+Picker Alice picks 22
+Picker Alice picks 33
+Picker Alice picks 34
+Picker Alice picks 37
+Picker Alice picks 37
+Picker Alice picks 38
+Picker Alice picks 38
+Picker Alice to Marshaling
+
+Sequencer Sue ready
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue approves
+
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill rescans
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill approves
+
+Loader Bill ready
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill approves
+
+Replenisher CoolDude ready
+Replenisher CoolDude replenishes

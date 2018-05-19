@@ -1,0 +1,44 @@
+Order SES Blue
+Order SES Blue
+Order SES Blue
+Order SES Red
+Picker Alice ready
+Picker Alice picks 22
+Picker Alice picks 22
+Picker Alice picks 37
+Picker Alice picks 31
+Picker Alice picks 37
+Picker Alice picks 38
+Picker Alice picks 38
+Picker Alice picks 38
+
+Picker Alice picks 21
+Picker Alice picks 22
+Picker Alice picks 37
+Picker Alice picks 37
+Picker Alice picks 37
+Picker Alice picks 38
+Picker Alice picks 38
+Picker Alice picks 38
+Picker Alice to Marshaling
+Sequencer Sue ready
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue rescans
+Sequencer Sue sequences
+Sequencer Sue sequences
+Sequencer Sue approves
+Loader Bill ready
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill loads
+Loader Bill approves

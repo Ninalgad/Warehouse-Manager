@@ -1,0 +1,5 @@
+in the help.txt we must include the format we have assumed 
+for our translation table and traversal table and cmd.txt
+
+so that the markers can customize their own version of 
+translation and traversal and cmd etc.

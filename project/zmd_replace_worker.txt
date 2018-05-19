@@ -1,0 +1,5 @@
+Picker Alice ready
+Picker Bill ready
+Replenisher Alice ready
+Manager dude ready
+Manager Bill ready

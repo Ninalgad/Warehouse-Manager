@@ -1,0 +1,47 @@
+#---LOGGING DEPENDENCIES---------------------------------------------------------
+# To make SLF4J/Logback work in Eclipse:
+# In the Package Explorer (sidebar), right click on your Java project.
+# Choose "Build Path -> Configure Build Path".
+# Click the "Add JARs" button.
+# Locate the "lib" subdirectory; add all 3 JARs contained in the folder:
+#    - logback-classic-1.2.2.jar
+#    - logback-core-1.2.2.jar
+#    - slf4j-api-1.7.25.jar
+# Click "OK".
+#--------------------------------------------------------------------------------
+
+
+#---COMMAND LINE INSTRUCTIONS----------------------------------------------------
+# To run from the command line:
+# Execute the two commands below from the "project" directory in the root of the
+# repo (the directory containing this file).
+#--------------------------------------------------------------------------------
+
+javac -cp ".:lib/slf4j-api-1.7.25.jar:.:lib/logback-classic-1.2.2.jar:.:lib/logback-core-1.2.2.jar:"  src/project/*.java src/Main.java
+java -cp  ".:lib/slf4j-api-1.7.25.jar:.:lib/logback-classic-1.2.2.jar:.:lib/logback-core-1.2.2.jar:.:src" Main commands.txt
+
+
+#---CUSTOMIZING COMMANDS.TXT----------------------------------------------------
+# The following are the forms of valid commands
+# [] indicate one single String of RegEx word characters (\w)
+# Commands are case sensitive
+#--------------------------------------------------------------------------------
+# Picker 	    [] ready
+# Picker 	    [] picks 	[]
+# Picker 	    [] to 	Marshaling
+# Sequencer   [] ready
+# Sequencer   [] sequences
+# Sequencer   [] rescans
+# Sequencer   [] rejects
+# Sequencer   [] approve
+# Loader 	    [] ready
+# Loader 	    [] loads
+# Loader      [] rescans
+# Loader 	    [] rejects
+# Loader      [] approves
+# Replenisher [] ready
+# Replenisher [] replenishes
+# Order       [] []
+# 
+# *the id of the workers are assumed to be unique id
+#--------------------------------------------------------------------------------
